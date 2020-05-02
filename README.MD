@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/rhernandog/react-startup-package.svg?branch=master)](https://travis-ci.org/rhernandog/react-startup-package) [![dependencies Status](https://david-dm.org/rhernandog/react-startup-package/status.svg)](https://david-dm.org/rhernandog/react-startup-package) [![devDependencies Status](https://david-dm.org/rhernandog/react-startup-package/dev-status.svg)](https://david-dm.org/rhernandog/react-startup-package?type=dev)
+
 # Simple React Startup Package
 
 ### Description
