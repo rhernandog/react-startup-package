@@ -21,6 +21,10 @@ Simple startup package for creating a React app using webpack.
 Open an issue here: https://github.com/rhernandog/react-startup-package/issues
 
 ### Changelog
+- Version 1.1.0
+  - Added Babel plugins for class properties in order to intialize state outside the cnstructor and bind methods with arrow functions.
+  - Added Babel Eslint parser to prevent errors when using the equal sign to create a method or the state outside the constructor.
+  - Updated `.eslint.json` config file.
 - Version 1.0.0
 
 ### License
